@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Mohamed+Galal!;" />
 </h1>
-<!--
-**Omasuuuu16/Omasuuuu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <h3 align="center">A passionate Data Engineer</h3>
@@ -29,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omasuuuu16&" alt="omasuuuu16" /></p>
 
--->
+
