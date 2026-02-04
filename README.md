@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/omar_mohamed_ff51fc5cc58e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/omar_mohamed_ff51fc5cc58e" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/www.linkedin.com/in/omar-mohamed-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omar-mohamed-ai" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/11734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="11734" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
