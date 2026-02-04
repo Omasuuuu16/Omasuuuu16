@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Omasuuuu16&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="Coding Animation" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ---
 
@@ -57,13 +57,10 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omasuuuu16&theme=dark&hide_border=false" width="48%"/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Omasuuuu16&theme=dark&hide_border=false" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omasuuuu16&layout=compact&theme=dark&hide_border=false" width="48%"/>
-</p>
 
 ---
 
@@ -74,6 +71,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Omasuuuu16&icon=0&color=0"/>
-</p>
+
