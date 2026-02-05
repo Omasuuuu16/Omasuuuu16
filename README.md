@@ -12,13 +12,15 @@
 ---
 
 ## 💫 About Me:
+
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="200"/>
 
 - 🎓 **Faculty of Computer Science & Artificial Intelligence**, Helwan University  
 - 📊 **Data Engineering Trainee** at **DEPI**  
 - 💡 Interested in **Data Engineering, AI, Data Science & Web Development**  
 - 🎯 Goal: **Build scalable data pipelines and contribute to real-world data-driven projects**
-
+<br>
+<br>
 
 ---
 
